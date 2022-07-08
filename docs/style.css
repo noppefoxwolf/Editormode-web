@@ -422,3 +422,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
+@media (max-width: 575px){
+	.navbar-brand img{
+		width:30px;
+		height:30px;
+	}
+	
+}
+
