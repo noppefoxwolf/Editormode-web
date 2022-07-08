@@ -174,12 +174,6 @@ button{
 	outline: none!important;
 }
 
-.btn-rd{
-	border-radius: 40px;
-}
-.icon-spacer{
-	margin-right:5px;
-}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -323,24 +317,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 -------------------------------------------------------------- */
 
 
-/* Button colour styles */
 
-.btn-azure{
-	background:#0096FF;
-	color:#FFFFFF!important;
-}
-.btn-azure:hover{
-	background:#0078cc!important;
-	color:#FFFFFF!important;
-}
-
-/* Icon colour styles */
-
-.icon-white{
-	color:#FFFFFF!important;
-	border-color:#FFFFFF!important;
-}
-
+/* = Custom Bric Data
+-------------------------------------------------------------- */
 
 
 
